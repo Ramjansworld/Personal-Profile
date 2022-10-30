@@ -1,0 +1,29 @@
+.profile-page{
+height: 100vh;
+display: flex;
+border: 2px solid greenyellow;
+border-width: 350px;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.profile{
+    background-color:chartreuse;
+    height: 30px;
+    width: 80px;
+    font-size:large;
+}
+.image{
+    width: 240px;
+    height: 245px;
+    border: 4px solid blue;
+    border-radius: 50%;
+}
+.email{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.github{
+    font-size: 20px;
+    font-family: sans-serif;
+}
